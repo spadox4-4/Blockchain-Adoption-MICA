@@ -1,0 +1,45 @@
+Quote excerpt,Construct,Sub-theme,Page/Time-stamp,Pseudonym
+"If I am an investor, I would see where is the biggest market.",OB,General observability [Context],p.10,P1
+"Okay, and second, I would see how fast I can get my money back, then I would go for AI.",OB,General observability,p.10,P1
+"What I think about why people would hesitate to invest more in blockchain than AI, and I'm not against it, I'm just thinking about what could be difficult, is that the volatility of the crypto is really high.",CX,General complexity,p.11,P1
+"So it's kind of a very volatile market, which is a good profit opportunity, but not all people think about it like that.",CP,Market/org context [Context] [Context],p.11,P1
+"So since the risk is really high, it makes it also more difficult compared to AI.",CX,General complexity,p.11,P1
+"So what I meant is that if I needed to make a transaction with the shop, for example, the moment I'm able to make a transaction using coins, crypto, is the moment that it will be more impactful in life.",PU,General usefulness,p.13,P1
+"And then, if the merchant have an advantage to use stablecoin than normal money, they would push people to do it.",RA,General advantage,p.15,P1
+"It's like, you know, like in some countries, would push people to use cash more because they have an advantage of using cash than a card.",RA,General advantage,p.15,P1
+"So if a merchant has more benefit in using stablecoin, they will push more to use it than other solutions.",RA,General advantage,p.15,P1
+"Also, for example, in every country they have this digital transfer for banks like DigiCash.",TR,General trialability [Context],p.3,P1
+"You shouldn't say like, OK, we have Trace who is owning the Bitcoin, for example, or we have to, let's say, block some amount of Bitcoins.",RA,Transparency & traceability,p.8,P1
+"I think about go-to-market strategies, or how easy it is to implement an AI solution and work for it, and then how easy it is to commercialize it and sell it.",PEOU,Ease of use/UI [Context],p.9,P1
+"And I also believe since it started to be a trend, everyone wants to jump at it, and also how much it costs to enter, comparing to how much it costs.",RA,Cost & efficiency,p.9,P1
+"For example, if you are doing an AI solution, building technology, it will not cost you as much as if you are doing something with crypto, because it's more complicated.",RA,Cost & efficiency,p.9,P1
+"And so the amount of money needed is less, comparing to crypto, and then it's easy to go to the market.",PEOU,Ease of use/UI [Context],p.9,P1
+"Everywhere, wherever you go, it's easy to go to the market and you don't need to invest a lot.",PEOU,Ease of use/UI [Context],p.9,P1
+So it's as if you're comparing real estate industry to tech or industry.,TR,General trialability,p.9,P1
+"So if, you know, we're in the very early days of this, and of course, this sort of thing will have an impact on our clients, on the interpretation of our past records.",CP,Integration with legacy systems [Context],p.44,P3
+"It is going to be quite a process, so this is...",CP,Integration with legacy systems,p.44,P3
+"Yes, it's going back to what Antoine had mentioned a few months back, which was, you know, it's something that's already reflected in our regulatory data, whether the entity is A mica authorized licensee or if they're an e-money issuer.",OB,General observability [Regulation],p.45,P3
+"We already have this information, but what Colin's trying to say is that we'll have a flag, we'll make it much easier for this information to be reflected on the main record itself.",TR,General trialability,p.45,P3
+"And then eventually the end goal will be an aggregation of these different licensees up into a legal entity, which will make your life a lot easier, Salvatore, because we know it's hard to group under one specific entity.",CX,Learning curve [Regulation],p.45,P3
+"Yeah, and hopefully once the acquisition goes through, we can get going on your integration efforts.",CP,Integration with legacy systems,p.48,P3
+"Which is exactly what we're working towards, something like a metadata tag which would say this is the mica licensee, this is the EMI licensee, and in that respect you'd then be able to grab them.",OB,General observability [Regulation],p.50,P3
+"We've seen it available in the regulator at least a week or two beforehand, and it's on our system.",OB,General observability [Regulation],p.51,P3
+"It's the standard information that's required, but they are specified in the legislation that needs to be made available, and then it's at the discretion of the regulator to make it more information available, which is what we've seen.",OB,General observability [Regulation],p.52,P3
+What we're trying to say is that the regulator...,TR,General trialability [Regulation],p.52,P3
+"We have to have, as you guys have, a business case for a product.",PU,Business value/ROI,p.100,P5
+"And let's say it costs us number X for getting the data, number Y for the personal cost to integrate it in our system, number Z for the system cost, and so on.",RA,Cost & efficiency,p.100,P5
+And then we have a number of what our annual costs will be to have the product in the market.,RA,Cost & efficiency [Context],p.100,P5
+"But as you see, we already gave you 100% on the user lessons for the D-set bank.",OB,General observability [Context],p.100,P5
+So your product which you sell to your clients gets more and more profitable every client you integrate to your system.,CP,Integration with legacy systems [Context],p.101,P5
+"So actually, let's say HSBC or whatever, it comes on your platform, it sees the data or can't see the data.",OB,General observability,p.94,P5
+"Yeah, I get your point, but we would have to check internally with our head of sales how we could do it, but that could be quite difficult.",CX,General complexity,p.95,P5
+"So sort of try to take the lead on accepting, you know, the entrance of crypto into the mainstream.",TR,General trialability,p.106,P7
+"I think there's efficiency as well, as long as I'm not mining it.",RA,Cost & efficiency,p.107,P7
+"I think mining is time consuming, but as I understand it, digital ledger technology and tokenization actually makes things, you know, a faster.",RA,Speed & settlement,p.107,P7
+"It gets quite complex, so I suppose it would be easier with digital ledger technology.",CX,Technical complexity,p.108,P7
+"It's very complex, you know, and because it's, you know, all of this is very dynamic.",CX,Technical complexity,p.109,P7
+"So it's hard for a cap table to capture, you know, the different changes in capitalization.",CX,Integration hurdles,p.109,P7
+"Because there would be less time taken up with compliance, yeah, I think there would be a lot of benefits.",RA,General advantage [Regulation],p.111,P7
+"Money is pretty easy to understand, but when it gets very technical- Maybe, you know, I mean, a lot of people still struggle with financial literacy, right?",PEOU,Ease of use/UI,p.117,P7
+"Yeah, you have to, you know, it's very hard to commit any fraud, right?",CX,Learning curve,p.120,P7
+"Yeah, if the investment is a decrease in value and you sell it at wrong time.",PU,Business value/ROI,p.121,P7
